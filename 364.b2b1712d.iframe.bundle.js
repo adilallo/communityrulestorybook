@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunkcommunity_rule=self.webpackChunkcommunity_rule||[]).push([[364],{"./node_modules/web-vitals/dist/web-vitals.js":(__unused_webpack_module,__webpack_exports__,__webpack_require__)=>{new Map,new Date}}]);
